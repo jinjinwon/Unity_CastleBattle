@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 8999a03a37fc1b347b231d8cc3e74960
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6766127861196792535
+    second: Lightning_strike_0
+  - first:
+      213: 4098310893617366119
+    second: Lightning_strike_1
+  - first:
+      213: -1963816659233458441
+    second: Lightning_strike_2
+  - first:
+      213: -8270448604221196029
+    second: Lightning_strike_3
+  - first:
+      213: 7071462336871194642
+    second: Lightning_strike_4
+  - first:
+      213: 1748082512019164911
+    second: Lightning_strike_5
+  - first:
+      213: 6108894842315199944
+    second: Lightning_strike_6
+  - first:
+      213: -5334932279226375096
+    second: Lightning_strike_7
+  - first:
+      213: 3076307182705772954
+    second: Lightning_strike_8
+  - first:
+      213: 6704303978607604407
+    second: Lightning_strike_9
+  - first:
+      213: -4492166273265125966
+    second: Lightning_strike_10
+  - first:
+      213: -1464566167990111592
+    second: Lightning_strike_11
+  - first:
+      213: -3037327990297059273
+    second: Lightning_strike_12
+  - first:
+      213: 5665614750109167423
+    second: Lightning_strike_13
+  - first:
+      213: 5728437731204558819
+    second: Lightning_strike_14
+  - first:
+      213: 1517433020232610196
+    second: Lightning_strike_15
+  - first:
+      213: 8832583437211993649
+    second: Lightning_strike_16
+  - first:
+      213: -4674346439917528877
+    second: Lightning_strike_17
+  - first:
+      213: -6045725037188000902
+    second: Lightning_strike_18
+  - first:
+      213: 3773567511944972923
+    second: Lightning_strike_19
+  - first:
+      213: -5382870951622192460
+    second: Lightning_strike_20
+  - first:
+      213: 7384162107830510009
+    second: Lightning_strike_21
+  - first:
+      213: -6333965014204029866
+    second: Lightning_strike_22
+  - first:
+      213: 397586696856289404
+    second: Lightning_strike_23
+  - first:
+      213: -2333358864729881754
+    second: Lightning_strike_24
+  - first:
+      213: 929810824734807698
+    second: Lightning_strike_25
+  - first:
+      213: 8928470052529480711
+    second: Lightning_strike_26
+  - first:
+      213: -952334855377296271
+    second: Lightning_strike_27
+  - first:
+      213: 742258326244838605
+    second: Lightning_strike_28
+  - first:
+      213: -6587545289417553273
+    second: Lightning_strike_29
+  - first:
+      213: -5761488871704754853
+    second: Lightning_strike_30
+  - first:
+      213: 7446091480978378714
+    second: Lightning_strike_31
+  - first:
+      213: -606197159691640357
+    second: Lightning_strike_32
+  - first:
+      213: 611200472597034402
+    second: Lightning_strike_33
+  - first:
+      213: 5052621167079825534
+    second: Lightning_strike_34
+  - first:
+      213: -6031728585764978151
+    second: Lightning_strike_35
+  - first:
+      213: 5034011239212080171
+    second: Lightning_strike_36
+  - first:
+      213: 5813287502643351381
+    second: Lightning_strike_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning_strike_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ddd780f82e912a0800000000000000
+      internalID: -6766127861196792535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_strike_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 121
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644d214b0020e830800000000000000
+      internalID: 4098310893617366119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_strike_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 118
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f63566372f1fb4e0800000000000000
+      internalID: -1963816659233458441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_strike_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 131
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309354c20d6793d80800000000000000
+      internalID: -8270448604221196029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning_strike_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1
+        width: 134
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e2c77781e22260800000000000000
+      internalID: 7071462336871194642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
